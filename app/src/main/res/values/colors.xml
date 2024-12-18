@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#F5F5F5</color> <!-- Light gray background -->
+    <color name="card_background">#FFFFFF</color> <!-- White for card background -->
+    <color name="button_color">#6200EE</color> <!-- Purple for button -->
+    <color name="button_color_pressed">#3700B3</color> <!-- Darker purple for button pressed state -->
+    <color name="text_color">#000000</color> <!-- Black for text -->
+    <color name="frame_color">#3F51B5</color>
+</resources>
